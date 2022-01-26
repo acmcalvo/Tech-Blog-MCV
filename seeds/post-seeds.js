@@ -2,19 +2,25 @@
 const { Post } = require('../models');
 
 const postData = [{
-        title: 'Lorem Ipsum I',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        title: 'Mountain Bike I',
+        content: 'Nunc rhoncus dui vel sem.',
         user_id: 1
 
     },
     {
-        title: 'Lorem Ipsum II',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        title: 'Mountain Bike II',
+        content: 'Aliquam erat volutpat. In congue.',
         user_id: 2
     },
     {
-        title: 'Lorem Ipsum III',
-        content: 'Ut etiam sit amet nisl purus in mollis.',
+        title: 'Mountain Bike  III',
+        content: 'Vivamus vestibulum sagittis sapien.',
+        user_id: 3
+    },
+
+    {
+        title: 'Mountain Bike  VI',
+        content: 'Sed vel enim sit amet nunc viverra dapibus.',
         user_id: 3
     }
 ];
