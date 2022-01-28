@@ -2,7 +2,7 @@ const { Comment } = require('../models');
 
 const commentData = [
   {
-    comment_text: "Wow! I didn't know about partials. Thanks!",
+    comment_text: "Lorem ins",
     post_id: 3,
     user_id: 1
   },
