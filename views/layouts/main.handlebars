@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>The Tech Blog | MCV</title>
   <link rel="stylesheet" href="/stylesheets/sytle.css">
 </head>
@@ -15,15 +16,20 @@
         <a href="/">The Tech Blog | MCV </a>
       </h1>
         <nav>
+         
           <span><a href="/">home</a></span> 
           {{#if loggedIn}}
+         
           <a href="/dashboard">dashboard</a>
           <button id="logout" class="btn-no-style">logout</button>
           {{else}}
           <a href="/login">login</a>
           {{/if}}
+         
         </nav>
     </header>
+
+    
     <main>
       {{{ body }}}
     </main>
