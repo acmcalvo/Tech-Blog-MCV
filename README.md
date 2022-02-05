@@ -1,6 +1,6 @@
 <img src='https://img.shields.io/github/license/acmcalvo/README-Generator' >
 
-# E-commerce Back End Starter Code  / Fantistic Umbrella
+#  Model-View-Controller (MVC) / Challenge: Tech Blog 
 
 
   ## Table of Contents
@@ -13,7 +13,7 @@
 
   ## Description
   
-This week challenge is to build the back end for an e-commerce site. 
+This week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. You’ll build this site completely from scratch and deploy it to Heroku. Your app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.. 
 
  
   
@@ -35,6 +35,11 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
   * npm bcrypt
   * npm dotenv to store environmental variables.
   * npm  mysql2
+  * express-handlebars
+  * Sequelize
+  * express-session
+  * connect-session-sequelize
+  * npm nodemon
   * heroku to run jawsDBMySQL
 
    ## Installation
@@ -57,7 +62,7 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
     
   * Start the server with: <br/>
     ```
-    $ npm start
+    $ npm start or nodemon server.js
     ```
    
   ## Repository
