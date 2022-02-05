@@ -8,7 +8,7 @@
   * [Presentation](#presentation)
   * [Technologies Used](#technologiesUsed)
   * [Repository](#repository)
-  * [Herokua app Deploy](#herokuappDeploy)
+  * [Heroku app Deploy](#herokuappDeploy)
   * [License](#license)
  
 
