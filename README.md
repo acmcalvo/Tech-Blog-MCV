@@ -8,7 +8,7 @@
   * [Presentation](#presentation)
   * [Technologies Used](#technologiesUsed)
   * [Repository](#repository)
-  * [Heroku app Deploy](#herokuappDeploy)
+  * [Heroku](#heroku)
   * [License](#license)
  
 
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
   
   https://github.com/acmcalvo/Tech-Blog-MCV.git
   
-  ## Heroku app deploy
+  ## Heroku
   
  https://tech-blog-mcv-acm.herokuapp.com/
   
