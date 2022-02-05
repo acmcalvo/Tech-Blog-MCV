@@ -10,12 +10,11 @@
 </head>
 
 <body>
-  <div class="wrapper">
-    <header>
-      <h1>
-        <a href="/">The Tech Blog | MCV </a>
-      </h1>
-        <nav>
+    <div class="navbar">
+       <div class="container">
+            <a class="logo" href="#">The Tech Blog <span>| MCV</span></a>
+
+             <section class="hero"></section>
          
           <span><a href="/">home</a></span> 
           {{#if loggedIn}}
@@ -25,9 +24,9 @@
           {{else}}
           <a href="/login">login</a>
           {{/if}}
-         
-        </nav>
-    </header>
+         </div>
+    </section>
+    {{!-- </header> --}}
 
     
     <main>
@@ -37,6 +36,7 @@
       Thanks for visiting!
     </footer>
   </div>
+  
 
   {{#if loggedIn}}
   <script src="/javascript/logout.js"></script>
