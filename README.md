@@ -21,11 +21,11 @@ This week is to build a CMS-style blog site similar to a Wordpress site, where d
   
   ## Presentation
   
-https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-ad1a-3f4c093f457f.mp4
+https://user-images.githubusercontent.com/91921941/152658495-9569eb85-09ff-4900-95ed-4ac38cb9d4d4.mp4
   
   If you have trouble watching the demo video, please use this link:
   ```
-  https://watch.screencastify.com/v/1vC0KZdnjeGMf6rAVNLr
+https://watch.screencastify.com/v/jd2DlbUreRmpDEMQLvTn
 ```
 
   
