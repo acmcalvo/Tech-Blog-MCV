@@ -8,6 +8,7 @@
   * [Presentation](#presentation)
   * [Technologies Used](#technologiesUsed)
   * [Repository](#repository)
+  * [Heroku Deploy](#herokuDeploy)
   * [License](#license)
  
 
@@ -64,10 +65,15 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
     ```
     $ npm start or nodemon server.js
     ```
-   
+  
+  
   ## Repository
   
-  Github: https://github.com/acmcalvo/fantastic-umbrella.git
+  https://github.com/acmcalvo/Tech-Blog-MCV.git
+  
+  ## Heroku app deploy
+  
+ https://tech-blog-mcv-acm.herokuapp.com/
   
 
   ## License 
